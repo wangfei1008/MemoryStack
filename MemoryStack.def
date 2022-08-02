@@ -1,0 +1,7 @@
+; MemoryStack.def : Declares the module parameters for the DLL.
+
+LIBRARY      "MemoryStack"
+DESCRIPTION  'MemoryStack Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
